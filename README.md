@@ -1,0 +1,1 @@
+# Murnaghan-Nakayama-rule.
